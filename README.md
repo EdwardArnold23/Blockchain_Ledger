@@ -6,8 +6,8 @@ Integration of the Ethereum blockchain network into the application for the purp
 
 ## Results
 
-  ### Transactions (listed as in screenshot order)
-  <img src="./Images/transactions_blockRecruit.png" title="hover text">
+  ### Transactions - GANACHE (listed as in screenshot order)
+  <img src="./Images/transactions_blockRecruit.png">
 
    Employer Ethereum Account Address: 0x6E3ECBf35f6c00aBD21*******************
   
@@ -16,13 +16,17 @@ Integration of the Ethereum blockchain network into the application for the purp
   3) Sent ASH 1 ETH == Ethereum Account Address: 0xe68D470519517b70880*******************
  
   
-  ## Account Balances
-  <img src="./Images/Account_balances.png" title="hover text">
+  ## Account Balances - GANACHE
+  <img src="./Images/Account_balances.png">
   
   1) Kendal's == Ethereum Account Address: 0xA45F142aA41f0479810******************
   2) Jo's == Ethereum Account Address: 0x7E2B6287a142B7ed*******************
   3) Ash's == Ethereum Account Address: 0xe68D470519517b70880*******************
   4) Employer's == Ethereum Account Address: 0x6E3ECBf35f6c00aBD21*******************
+     
+
+  ## Interface - STREAMLIT 
+  <img src="./Images/streamlit_transaction_ss.png">
      
 ## Resources & Dependencies
 - streamlit
