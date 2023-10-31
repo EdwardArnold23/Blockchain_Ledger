@@ -11,9 +11,9 @@ Integration of the Ethereum blockchain network into the application for the purp
 
    Employer Ethereum Account Address: 0x6E3ECBf35f6c00aBD21*******************
   
-  1) Sent Kendal 5 ETH == Ethereum Account Address: 0xA45F142aA41f0479810******************
-  2) Sent Jo 5 ETH == Ethereum Account Address: 0x7E2B6287a142B7ed*******************
-  3) Sent ASH 1 ETH == Ethereum Account Address: 0xe68D470519517b70880*******************
+  1) Sent Kendal wages for 5 hours == Ethereum Account Address: 0xA45F142aA41f0479810******************
+  2) Sent Jo wages for 5 hours == Ethereum Account Address: 0x7E2B6287a142B7ed*******************
+  3) Sent ASH wages for 1 hour == Ethereum Account Address: 0xe68D470519517b70880*******************
  
   
   ## Account Balances - GANACHE
