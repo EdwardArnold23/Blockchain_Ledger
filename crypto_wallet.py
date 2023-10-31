@@ -11,7 +11,7 @@ import os
 import requests
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv('SAMPLE.env')
 from bip44 import Wallet
 from web3 import Account
 from web3 import middleware
@@ -56,10 +56,10 @@ def send_transaction(w3, account, to, wage):
     w3.eth.set_gas_price_strategy(medium_gas_price_strategy)
 
     # Convert eth amount to Wei
-    value = w3.toWei(wage, "ether")
+    value = w3.to_wei(wage, "ether")
 
     # Calculate gas estimate
-    gasEstimate = w3.eth.estimateGas(
+    gasEstimate = w3.eth.estimate_gas(
         {"to": to, "from": account.address, "value": value}
     )
 
