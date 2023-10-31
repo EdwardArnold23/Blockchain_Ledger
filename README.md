@@ -4,6 +4,9 @@ Integration of the Ethereum blockchain network into the application for the purp
 
 ## Results
 
+
+
+
 ## Resources & Dependencies
 - streamlit
 - dataclasses
